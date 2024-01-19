@@ -29,10 +29,12 @@ protected override void OnConfiguring(DbContextOptionsBuilder options)
   <br/>
 Capturas de Funcionalidad:
 <br/>
-![sysventas](https://github.com/FernandoDz/SistemaVentas/assets/119868719/fc6960a8-bf16-4391-970a-a9e62de6f349)
- <br/>
-![venta](https://github.com/FernandoDz/SistemaVentas/assets/119868719/3dd00fc5-dd52-42ce-82f8-5e6014175f36)
-<br/>
- ![encabezado](https://github.com/FernandoDz/SistemaVentas/assets/119868719/81c7f7db-dfcd-4757-8c37-a15abfb8ab02)
- <br/>
- ![detalle](https://github.com/FernandoDz/SistemaVentas/assets/119868719/38e457fe-a2e5-4dc0-81e7-1fa45bba4feb)
+
+![sistemaventas](https://github.com/FernandoDz/SistemaVentas/assets/119868719/f16caa0a-202f-4e60-9b83-5e65b9bd57e1)
+
+![venta](https://github.com/FernandoDz/SistemaVentas/assets/119868719/a638a98b-b5cf-44df-b934-05078f1d362a)
+
+![encabezado](https://github.com/FernandoDz/SistemaVentas/assets/119868719/9c205280-4b3f-4367-8362-dc0457b174a5)
+
+![detalle](https://github.com/FernandoDz/SistemaVentas/assets/119868719/61d39bfc-25bd-4db4-95c3-80b0c17de06a)
+
