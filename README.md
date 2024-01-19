@@ -1,11 +1,13 @@
 Este proyecto fue realizado para la prueba tecnica de Upgrade Business y consta de un sistema de ventas, haciendo uso de arquitectura n capas, entre alguna de estas , capa de entidades de negocio,
 capa de acceso a datos(cabe aclarar que la base de datos esta hospedada en la nube, pero igualmente se puede hacer uso de una base de datos SQL cambiando
-el string de conexion en el archivo <code>BDContexto.cs<code/>
+el string de conexion en el archivo BDContexto.cs
 en la linea
+ <br/>
 protected override void OnConfiguring(DbContextOptionsBuilder options)
  {
      options.UseSqlServer(@"Data Source=BDSysVenta.mssql.somee.com; Initial Catalog=BDSysVenta; User Id=fernandoss_SQLLogin_1; Pwd=snu8c8tzyo");
  }
+ <br/>
  El proyecto fue realizado en el IDE Visual studio 2022 y SQL Server Express 2022 y .NET 6.
  Ademas consta de los siguientes modulos: 
  -Modulo de clientes
