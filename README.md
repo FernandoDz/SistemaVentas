@@ -19,11 +19,14 @@ protected override void OnConfiguring(DbContextOptionsBuilder options)
 
 - Proyecto desarrollado en Visual Studio 2022.
 - Utiliza SQL Server Express 2022 y .NET 6.
+  <br/>
  **Módulos:**
+  <br/>
 - Módulo de Clientes.
 - Módulo de Productos.
 - Módulo de Encabezado de Factura.
 - Módulo de Detalle de Factura.
+  <br/>
 Capturas de Funcionalidad:
 <br/>
 ![sysventas](https://github.com/FernandoDz/SistemaVentas/assets/119868719/fc6960a8-bf16-4391-970a-a9e62de6f349)
