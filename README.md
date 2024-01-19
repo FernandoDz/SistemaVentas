@@ -10,11 +10,11 @@ Este proyecto fue creado como parte de la prueba técnica para Upgrade Business.
 **Configuración de la Base de Datos:**
 La base de datos está hospedada en la nube. Sin embargo, también puedes utilizar una base de datos SQL local cambiando la cadena de conexión en el archivo `BDContexto.cs`. Modifica la conexión en la siguiente sección:
 
-```csharp
 protected override void OnConfiguring(DbContextOptionsBuilder options)
 {
     options.UseSqlServer(@"Data Source=BDSysVenta.mssql.somee.com; Initial Catalog=BDSysVenta; User Id=fernandoss_SQLLogin_1; Pwd=snu8c8tzyo");
 }
+
 Ambiente de Desarrollo:
 
 Proyecto desarrollado en Visual Studio 2022.
