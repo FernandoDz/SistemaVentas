@@ -1,4 +1,4 @@
-Este proyecto fue realizado para la prueba tecnica de Upgrade Business y consta de un sistema de ventas, haciendo uso de arquitectura n capas, entre alguna de estas , capa de entidades de negocio,
+<p>Este proyecto fue realizado para la prueba tecnica de Upgrade Business y consta de un sistema de ventas, haciendo uso de arquitectura n capas, entre alguna de estas , capa de entidades de negocio,
 capa de acceso a datos(cabe aclarar que la base de datos esta hospedada en la nube, pero igualmente se puede hacer uso de una base de datos SQL cambiando
 el string de conexion en el archivo BDContexto.cs
 en la linea
@@ -14,7 +14,7 @@ protected override void OnConfiguring(DbContextOptionsBuilder options)
  -Modulo de Productos
  -Modulo de Encabezado de Factura
  -Modulo de Detalle de Factura
- A continuacion se muestra capturas de funcionalidad:
+ A continuacion se muestra capturas de funcionalidad:</p>
  
  ![sysventas](https://github.com/FernandoDz/SistemaVentas/assets/119868719/fc6960a8-bf16-4391-970a-a9e62de6f349)
  <br/>
