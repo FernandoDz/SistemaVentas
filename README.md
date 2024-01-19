@@ -15,17 +15,15 @@ protected override void OnConfiguring(DbContextOptionsBuilder options)
     options.UseSqlServer(@"Data Source=BDSysVenta.mssql.somee.com; Initial Catalog=BDSysVenta; User Id=fernandoss_SQLLogin_1; Pwd=snu8c8tzyo");
 }
 
-Ambiente de Desarrollo:
+**Ambiente de Desarrollo:**
 
-Proyecto desarrollado en Visual Studio 2022.
-Utiliza SQL Server Express 2022 y .NET 6.
-Módulos:
-El sistema consta de los siguientes módulos:
-
-Módulo de Clientes.
-Módulo de Productos.
-Módulo de Encabezado de Factura.
-Módulo de Detalle de Factura.
+- Proyecto desarrollado en Visual Studio 2022.
+- Utiliza SQL Server Express 2022 y .NET 6.
+ **Módulos:**
+- Módulo de Clientes.
+- Módulo de Productos.
+- Módulo de Encabezado de Factura.
+- Módulo de Detalle de Factura.
 Capturas de Funcionalidad:
 <br/>
 ![sysventas](https://github.com/FernandoDz/SistemaVentas/assets/119868719/fc6960a8-bf16-4391-970a-a9e62de6f349)
